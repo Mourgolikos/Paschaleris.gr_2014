@@ -144,15 +144,17 @@ body:before {
 	position: fixed;
 	left: 22px;
 	bottom: 8px;
-	font-size: 1em;
+	font-size: 1.1em;
 	background-color:rgba(5,6,11,0.22);
 	border-radius: 15px;
-	z-index: 999999;
+	z-index: 9999;
 }
 #social-share a{
+	margin-bottom: 0.2em;
 	text-decoration: none;
 	color: Tomato;
 	font-size: 1.2em;
+	line-height: 1.3em;
 }
 #social-share a:hover{
 	font-size: 1.22em;
