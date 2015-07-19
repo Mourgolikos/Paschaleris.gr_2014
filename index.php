@@ -115,12 +115,12 @@ function statsCalc( $interval, $default="0", $measure="", $dot=false) {
 			<img src="_images/social/set2/email.png" alt="email" title="Triantafyllos Paschaleris email" class="email_image"><span class="email" >: dev@paschaleris.gr</span>
 			</div>
 			<ul id="cont_list">
-					<li id="cont_item1"><div><a href="http://gr.linkedin.com/in/paschaleris" target="_blank"><img src="_images/social/set2/linkedin.png" alt="LinkedΙn" title="Triantafyllos Paschaleris LinkedΙn"></a></div></li>
-					<li id="cont_item2"><div><a href="http://www.facebook.com/Mourgolikos" target="_blank"><img src="_images/social/set2/facebook.png" alt="Facebook" title="Triantafyllos Paschaleris Facebook"></a></div></li>
-					<li id="cont_item3"><div><a href="http://www.freelancer.com/u/Mourgolikos.html" target="_blank"><img src="_images/social/set2/freelancer.png" alt="Freelancer" title="Triantafyllos Paschaleris Freelancer"></a></div></li>
-					<li id="cont_item4"><div><a href="http://gplus.to/Mourgolikos" target="_blank"><img src="_images/social/set2/googleplus.png" alt="Google Plus" title="Triantafyllos Paschaleris Google Plus"></a></div></li><!--My long url is: https://plus.google.com/115854784556081015540 -->
-					<li id="cont_item5"><div><a href="http://twitter.com/Mourgolikos" target="_blank"><img src="_images/social/set2/twitter.png" alt="Twitter" title="Triantafyllos Paschaleris Twitter"></a></div></li>
-					<li id="cont_item6"><div><a href="http://www.pinterest.com/Mourgolikos" target="_blank"><img src="_images/social/set2/pinterest.png" alt="Pinterest" title="Triantafyllos Paschaleris Pinterest"></a></div></li>
+					<li id="cont_item1"><div><a href="http://gr.linkedin.com/in/paschaleris" target="_blank"><img src="_images/social/set2/linkedin.png" alt="LinkedΙn" title="Paschaleris Triantafyllos LinkedΙn"></a></div></li>
+					<li id="cont_item2"><div><a href="http://www.facebook.com/Paschaleris" target="_blank"><img src="_images/social/set2/facebook.png" alt="Facebook" title="Paschaleris Triantafyllos Facebook"></a></div></li>
+					<li id="cont_item3"><div><a href="http://www.freelancer.com/u/Mourgolikos.html" target="_blank"><img src="_images/social/set2/freelancer.png" alt="Freelancer" title="Paschaleris Triantafyllos Freelancer"></a></div></li>
+					<li id="cont_item4"><div><a href="http://gplus.to/Mourgolikos" target="_blank"><img src="_images/social/set2/googleplus.png" alt="Google Plus" title="Paschaleris Triantafyllos Google Plus"></a></div></li><!--My long url is: https://plus.google.com/115854784556081015540 -->
+					<li id="cont_item5"><div><a href="http://twitter.com/Mourgolikos" target="_blank"><img src="_images/social/set2/twitter.png" alt="Twitter" title="Paschaleris Triantafyllos Twitter"></a></div></li>
+					<li id="cont_item6"><div><a href="http://www.pinterest.com/Mourgolikos" target="_blank"><img src="_images/social/set2/pinterest.png" alt="Pinterest" title="Paschaleris Triantafyllos Pinterest"></a></div></li>
 			</ul>
 		</section>
 	</div>
