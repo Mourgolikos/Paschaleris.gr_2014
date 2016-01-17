@@ -16,10 +16,10 @@ html,body,#content{
 	     url('../_images/logo_transparent.png') no-repeat center center,
 	      url("../_images/background/page.png") repeat scroll top left rgb(17, 17, 17);
 	background-attachment: scroll;
-	/* Sticky Footer Start */
 	height: 101%;
-	/* Sticky Footer End */
 	width: 101%;
+	min-height: 678px;/*Has to be equal with #sky min-width */
+	min-width: 393px;/*Has to be equal with #sky min-width */
 	opacity: 0.8;
 }
 
@@ -80,7 +80,7 @@ html,body,#content{
 
 #social-share{
 	text-decoration: none;
-	position: fixed;
+	position: absolute;
 	left: 1%;
 	bottom: 1%;
 	font-size: 1.2em;
@@ -201,6 +201,8 @@ html,body,#content{
 	position: relative;
 	height:101%;
 	width: 101%;
+	min-height: 678px;/*Has to be equal with #old-part min-width */
+	min-width: 393px;/*Has to be equal with #old-part min-width */
 	background:#007fd5;
 	overflow:hidden;
 	-webkit-animation:sky_background 20s ease-out infinite;
@@ -280,7 +282,7 @@ html,body,#content{
 	-moz-transform:translate3d(0,0,0);
 	-o-transform:translate3d(0,0,0)
 }
-
+/* Sky Animations */
 @-webkit-keyframes sky_background {
 	0% {
 		background:#007fd5;
@@ -391,4 +393,5 @@ html,body,#content{
 		left:-200%;
 	}
 }
+/* END of Sky Animations */
 /* END of Clouds*/
